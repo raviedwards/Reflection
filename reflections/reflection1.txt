@@ -1,0 +1,5 @@
+Git Checkout is not the same as SVN Checkout
+GIT checksouts are based on full set of files which were commited together
+
+git checkout not equal svncheck out
+

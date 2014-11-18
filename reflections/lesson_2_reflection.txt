@@ -1,0 +1,33 @@
+Repository is needed for storing the files I am working on.
+An empty repository with 0 commits is created.
+Files in the directory are untracked.
+$  git init
+
+$git log  
+   shows all the commits and will be empty with NO HEAD message
+
+$ git status
+   will show the unrtracked files
+   and no files be tracked as we have only initilaized the rtepository.
+
+Staging area is where a group of file sthat are to be logically comitted grouped in.
+
+A commit will move this files from the staging area to the repository.
+
+$ git diff
+    compares working with staging
+$ git diff --staged
+    compares working with files in  staging
+$ git diff commit1 commit2
+    compares two commits in repository
+
+To head  from and old commit
+    $ git checout master
+
+ How can you use staging area to make sure you have one commit per logical change?
+Add relevant changes for the logical change into staging area and then do a git commit.
+
+Branches are good to do 1) experimental stuff 2) A work area for different lnguage . I can alsway go back to the main branch when I have to do a demo.  Also later I can merge from a branch to the main branch.
+
+
+ 

@@ -1,0 +1,19 @@
+GIT  work space can be set up for :
+  1. Setting an editor for git
+  2. Custom Prompt
+  3. Setting <TABs> for git commands
+
+
+The files are.
+    .bash_profile
+    git-completion.bash
+    git-prompt.sh
+
+Other usefulle commands are
+    $ Git config --global user.name "rav edwards"
+    $ git config --global user.mail "ravi.edwards@me.com"
+    $ git config --global core.editor vi
+    $ git config --global push.default upstream
+    $ git config --global merge.conflictstyle diff3
+
+
