@@ -1,0 +1,8 @@
+
+Differences between fors, clone and push.
+
+branchces are on repositories - could be in github or even in computer,
+clone creates a repository either from GitHub or Your computer. But only to your computer.
+Fork creates a repsoitoruy from GitHub to GitHub.
+
+
